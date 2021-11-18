@@ -1,0 +1,14 @@
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\bin\Debug\Tema 11.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\bin\Debug\Tema 11.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\bin\Debug\Tema 11.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\obj\Debug\Tema 11.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\obj\Debug\Tema 11.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\obj\Debug\Tema 11.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\Tema 11\obj\Debug\Tema 11.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\bin\Debug\Tema 11.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\bin\Debug\Tema 11.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\bin\Debug\Tema 11.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\obj\Debug\Tema 11.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\obj\Debug\Tema 11.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\obj\Debug\Tema 11.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 11\Tema 11\obj\Debug\Tema 11.pdb

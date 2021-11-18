@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\bin\Debug\Tema 13.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\bin\Debug\Tema 13.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\bin\Debug\Tema 13.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\obj\Debug\Tema 13.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\obj\Debug\Tema 13.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\obj\Debug\Tema 13.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 13\Tema 13\Tema 13\obj\Debug\Tema 13.pdb
