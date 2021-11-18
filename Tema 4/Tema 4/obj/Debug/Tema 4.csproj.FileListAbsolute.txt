@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\bin\Debug\Tema 4.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\bin\Debug\Tema 4.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\bin\Debug\Tema 4.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\obj\Debug\Tema 4.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\obj\Debug\Tema 4.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\obj\Debug\Tema 4.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 4\Tema 4\Tema 4\obj\Debug\Tema 4.pdb
