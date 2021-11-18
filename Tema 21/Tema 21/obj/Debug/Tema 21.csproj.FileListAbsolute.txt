@@ -1,0 +1,14 @@
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\bin\Debug\Tema 21.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\bin\Debug\Tema 21.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\bin\Debug\Tema 21.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\obj\Debug\Tema 21.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\obj\Debug\Tema 21.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\obj\Debug\Tema 21.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\Tema 21\obj\Debug\Tema 21.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\bin\Debug\Tema 21.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\bin\Debug\Tema 21.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\bin\Debug\Tema 21.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\obj\Debug\Tema 21.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\obj\Debug\Tema 21.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\obj\Debug\Tema 21.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 21\Tema 21\obj\Debug\Tema 21.pdb
