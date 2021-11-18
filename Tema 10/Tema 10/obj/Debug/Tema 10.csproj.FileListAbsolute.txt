@@ -1,0 +1,7 @@
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\obj\Debug\Tema 10.csproj.AssemblyReference.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\obj\Debug\Tema 10.csproj.CoreCompileInputs.cache
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\bin\Debug\Tema 10.exe.config
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\bin\Debug\Tema 10.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\bin\Debug\Tema 10.pdb
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\obj\Debug\Tema 10.exe
+C:\Users\Dora\source\repos\Teme\SET 1\Tema 10\Tema 10\Tema 10\Tema 10\obj\Debug\Tema 10.pdb
